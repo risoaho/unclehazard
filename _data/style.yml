@@ -2,7 +2,9 @@
 #highlight: "#54bfff"
 #white: "#FF0000"
 #black: "#000"
+#site-background: "#2A0D5D"
 
 #Image Customization
+logo-image: "../img/setäily_horizontal.png"
 header-image: "../img/header-bg.jpg"
 contact-image: "../img/map-image.png"
