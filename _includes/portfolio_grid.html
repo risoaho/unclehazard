@@ -1,11 +1,11 @@
-<!-- Portfolio Grid -->
+<!-- services Grid -->
 {% if site.locale and site.locale != "" and site.locale != nil %}
-<section class="bg-light page-section" id="{{ site.data.sitetext.portfolio.section | default: "portfolio" }}">
+<section class="bg-light page-section" id="{{ site.data.sitetext.services.section | default: "services" }}">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].portfolio.title | markdownify | default: "Portfolio" }}</h2>
-        <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].portfolio.text | markdownify }}</h3>
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].services.title | markdownify | default: "Services" }}</h2>
+        <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].services.text | markdownify }}</h3>
       </div>
     </div>
     <div class="row">

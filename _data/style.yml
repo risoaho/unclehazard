@@ -1,6 +1,6 @@
 #Color Customization
 highlight: "#ECBE43"   
-white: "#54BFFF"
+white: "#B4163F"
 black: "#2A0D5D"
 site-background: "#2A0D5D"
 
@@ -10,3 +10,4 @@ header-image: "../img/header-bg.jpg"
 contact-image: "../img/map-image.png"
 
 #Entinen highlight  "#54bfff"
+#karmiini b4163f
